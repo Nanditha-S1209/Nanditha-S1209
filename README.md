@@ -1,16 +1,14 @@
-# Hi there, I'm Bagyalakshmi S Shinde 👋
+# Hi there, I'm Nanditha S 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagyalakshmi-s-shinde-048559246)]
-[![GitHub followers](https://img.shields.io/github/followers/Bagyalakshmi1429?label=Follow&style=social)](https://github.com/Bagyalakshmi1429/?tab=follow)
+[![Linkedin Badge](www.linkedin.com/in/nanditha-s-385359247)]
+[![GitHub followers](https://img.shields.io/github/followers/Nanditha-S1209?label=Follow&style=social)](https://github.com/Nanditha-S1209/?tab=follow)
 
 
 ---
 
 ## 🌟 About Me
 
- I am a dedicated data scientist with a passion for uncovering insights from data and developing predictive models. Proficient in Python for data analysis, machine learning, NLP, and CV, I excel at using data visualization tools to effectively communicate findings. I enjoy contributing to open-source projects and continuously expanding my knowledge in data science and related technologies.
-- 🌱 I’m currently learning *Python and LLM*
-
+ "I am a passionate data scientist skilled in Python for data analysis, machine learning, natural language processing (NLP), and computer vision (CV). I specialize in developing predictive models and leveraging data visualization tools to effectively communicate insights. I actively contribute to open-source projects and am dedicated to continuously expanding my knowledge in data science and related technologies. Currently - 🌱 I’m currently learning *Python and LLM*
 
 ---
 
@@ -41,8 +39,8 @@
 
 ## 📊 GitHub Stats
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagyalakshmi1429&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagyalakshmi1429&layout=compact&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanditha-S1209&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanditha-S1209&layout=compact&theme=radical)
 
 ---
 
