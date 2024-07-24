@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
- "I am a passionate data scientist skilled in Python for data analysis, machine learning, natural language processing (NLP), and computer vision (CV). I specialize in developing predictive models and leveraging data visualization tools to effectively communicate insights. I actively contribute to open-source projects and am dedicated to continuously expanding my knowledge in data science and related technologies. Currently - 🌱 I’m currently learning *Python and LLM*
+ "I am a passionate data scientist skilled in Python for data analysis, machine learning, natural language processing (NLP), and computer vision (CV). I specialize in developing predictive models and leveraging data visualization tools to effectively communicate insights. I actively contribute to open-source projects and am dedicated to continuously expanding my knowledge in data science and related technologies. Currently - 🌱 I’m currently learning *Python and SQL*
 
 ---
 
@@ -17,11 +17,8 @@
 ### Languages
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 
 ### Frameworks & Libraries
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=Matplotlib&logoColor=white)
