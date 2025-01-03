@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
- "I am a passionate data scientist skilled in Python for data analysis, machine learning, natural language processing (NLP), and computer vision (CV). I specialize in developing predictive models and leveraging data visualization tools to effectively communicate insights. I actively contribute to open-source projects and am dedicated to continuously expanding my knowledge in data science and related technologies. Currently - 🌱 I’m currently learning *Python and SQL*
+ "I am a passionate data scientist skilled in Python for data analysis, machine learning, natural language processing (NLP). I specialize in developing predictive models and leveraging data visualization tools to effectively communicate insights. I actively contribute to open-source projects and am dedicated to continuously expanding my knowledge in data science and related technologies.
 
 ---
 
@@ -22,6 +22,7 @@
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=Matplotlib&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=Matplotlib&logoColor=white)
 
 
 ### Tools & Platforms
