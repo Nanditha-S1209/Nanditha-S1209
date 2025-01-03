@@ -22,7 +22,6 @@
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=Matplotlib&logoColor=white)
-- ![Seaborn](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=Matplotlib&logoColor=white)
 
 
 ### Tools & Platforms
